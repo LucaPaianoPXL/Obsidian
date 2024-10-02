@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "063a4b317b1b0e27",
+        "id": "30abeb79d68e6231",
         "type": "tabs",
         "children": [
           {
-            "id": "a188df77e7ad5034",
+            "id": "84285f48d751199f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welkom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cb0592c7824be24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Naamloos.md",
+                "file": "Artikelen/mcKinsey/The future of GenAI?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:GenAI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naamloos.md",
+                "file": "Artikelen/mcKinsey/The future of GenAI?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naamloos.md",
+                "file": "Artikelen/mcKinsey/The future of GenAI?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Naamloos.md"
+                "file": "Artikelen/mcKinsey/The future of GenAI?.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -158,10 +146,27 @@
       "command-palette:Open opdrachtenpaneel": false
     }
   },
-  "active": "0b256c7266cc3ca0",
+  "active": "84285f48d751199f",
   "lastOpenFiles": [
-    "Naamloos",
+    "Artikelen/mcKinsey/Five years in review - AI adoption, impact, and spend.md",
+    "Tags/machine learning.md",
+    "Artikelen/mcKinsey/The future of GenAI?.md",
+    "Tags/Tags.md",
+    "Tags/GenAI.md",
+    "Tags/AI-lente.md",
+    "Tags/AI-winter.md",
+    "Tags/ChatGPT.md",
+    "Tags/AI.md",
+    "Tags/AI-winter.md",
+    "Tags/AI.md",
+    "Artikelen",
+    "Afbeeldingen/Timeline of major large language model.png",
+    "Afbeeldingen",
+    "Naamloos 1.md",
+    "Tags/ChatGPT.md",
+    "Tags/chatbot.md",
+    "Tags",
     "Welkom.md",
-    "Naamloos.md"
+    "Artikelen/mcKinsey"
   ]
 }
